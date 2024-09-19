@@ -6,7 +6,7 @@ If you have a version that is not shared here, please create a pull request.
 
 ## Docs
 
-If you don't know which version of firmware or cps to use, check the documentation in [Docs](./Docs/). 
+If you don't know which version of firmware or cps to use, check the documentation in [Docs](./Docs). 
 
 ## Firmware markings
 
@@ -27,7 +27,7 @@ In the **User program** section, press **Open file upgrade** and select the firm
 
 When you click **Download file of upgrade** button, the firmware loading process will begin.
 
-![howtoflash](flash.png)
+![howtoflash](./images/flash.png)
 
 After the upload is complete, disconnect the cable and reset the radio.
 
